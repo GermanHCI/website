@@ -8,5 +8,5 @@ permalink: /2021/
 
 
 
-{% bibliography --file bibliography2021.bib %} 
+
 
