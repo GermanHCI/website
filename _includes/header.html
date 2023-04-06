@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Menú desplegable con imagen de logo</title>
+    <style>
+      #menu-desplegable {
+        display: none;
+        margin: 0 auto;
+      }
+      /* Estilizamos el botón que activará el menú */
+      #boton-menu {
+        background-color: #ffffff;
+        color: #3747f8;
+        padding: 20px;
+        cursor: pointer;
+        margin: 0 auto;
+      }
+      /* Al pasar el mouse sobre el botón, mostramos el menú */
+      
+      /* Estilizamos el menú desplegable */
+      #menu-desplegable {
+        background-color: #ffffff;
+        color: #3747f8;
+        padding: 10px;
+        margin: 0 auto;
+      }
+      /* Estilizamos la imagen del logo */
+      #logo {
+        width: 20%; /* Que ocupe casi la mitad de la pantalla */
+        display: block; /* Para que el margen lateral funcione correctamente */
+        margin: 1 auto; /* Para centrar la imagen horizontalmente */
+        margin-bottom: 40px; /* Para dejar un margen inferior al logo */
+        margin-top: 80px;
+        margin-left: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Imagen del logo -->
+    <img src="/images/logo.PNG" alt="Logo de la empresa" id="logo">
+    <!-- Botón que activará el menú desplegable -->
+    
+    
+    <div id="boton-menu">
+      
+      <span class="nuevo-menu">
+        <a href="http://localhost:4000/">HOME
+        </a>
+        <a>GERMAN HCI @ CHI  </a>
+        <a href="http://localhost:4000/2022/">COMMUNITY EVENTS </a>
+        <a href="http://localhost:4000/2022/">GERMAN HCI LABS</a>
+        <a href="http://localhost:4000/2022/">ABOUT</a>
+      </span>
+
+    </div>
+    <!-- Menú desplegable -->
+    <ul id="menu-desplegable">
+      <li><a href="http://localhost:4000/2022/">2022 Publications</a></li>
+      <li><a href="http://localhost:4000/2021/">2021 Publications</a></li>
+      <li><a href="http://localhost:4000/2020/">2020 Publications</a></li>
+      
+      
+    </ul>
+
+
+    <script>
+      // Seleccionamos el botón y el menú desplegable
+      var botonMenu = document.getElementById('boton-menu');
+      var menuDesplegable = document.getElementById('menu-desplegable');
+      
+      // Ocultamos el menú desplegable al cargar la página
+      menuDesplegable.style.display = 'none';
+
+      // Función que se ejecuta al hacer clic en el botón
+      botonMenu.addEventListener('click', function() {
+        // Si el menú está oculto, lo mostramos
+        if (menuDesplegable.style.display === 'none') {
+          menuDesplegable.style.display = 'block';
+        // Si el menú está visible, lo ocultamos
+        } else {
+          menuDesplegable.style.display = 'none';
+        }
+      });
+    </script>
+
+  </body>
+</html>
+
+

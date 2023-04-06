@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "References 2021"
+date:   2023-03-01 15:56:47 +0100
+categories: jekyll update
+permalink: /2021/
+---
+
+
+
+{% bibliography --file bibliography2021.bib %} 
+

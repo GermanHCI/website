@@ -1,0 +1,213 @@
+---
+layout: post
+title:  "Contributing German HCI Labs 2020"
+date:   2023-03-01 15:56:47 +0100
+categories: jekyll update
+permalink: /maps/
+---
+
+<img src="/assets/images/map.svg" alt="Descripción de la imagen" >
+
+
+
+## RWTH Aachen University
+### Media Computing Group
+Jan Borchers – hci.rwth-aachen.de
+
+At the Media Computing Group, headed by Prof. Dr. Jan Borchers, we work in Human-Computer Interaction. We develop and study new interaction theories, techniques, and systems in areas like personal digital fabrication and personal design, tangible, mobile, and wearable user interfaces, interactive textiles, multitouch tables and interactive surfaces, augmented reality, and visual coding environments. Our goal is to make the Brave New World of interactive technologies useful by making it usable. Since starting in October 2003, we have become one of Germany’s best-published research groups at CHI, the premier international academic conference in the field.
+
+
+## Universität Bremen
+### Digital Media Lab, TZI
+Rainer Malaka – tzi.de
+### CGVR, TZI
+Gabriel Zachmann – tzi.de
+
+The Center for Computing Technologies (TZI) at the University of Bremen conducts research at the core of a massive societal trend: The digital revolution, which affects all areas of our lives. Important research questions include: What kind of technologies will we have in 10 to 20 years? How can we make sure that they will be safe, dependable, and beneficial for society? And most of all: How can technology serve humans–instead of replacing them? TZI has conducted research in these areas since its foundation in 1995, working on approximately 120 projects per year. One main goal is to transfer results from basic research to industry as quickly as possible in order to generate the greatest benefits for society.
+
+
+## TU Chemnitz
+### Medieninformatik
+Maximilian Eibl – http://www.tu-chemnitz.de/informatik/mi
+
+The chair media informatics at TU Chemnitz does research and teaching in Human Computer Interaction, Multimedia Information Retrieval, and Media Distribution.
+
+## Clausthal University of Technology
+### Human-Centred Information Systems
+Michael Prilla – http://hcis.in.tu-clausthal.de/
+
+We investigate the work, learning and behavior of people in order to support them with IT tools. In this we focus on the practice of people, which includes multiple (individual) factors and constraints that shape the way people act and develops of time an constantly. IT is then one factor that influences work, and the understanding of all other factors enables us to support individuals and group appropriately. Our work includes individuals (human computer interaction) as well as support for groups (computer supported cooperative work and collaborative learning).
+
+## TU Darmstadt
+### Telecooperation Lab
+Max Mühlhäuser – www.teamdarmstadt.de
+
+The Telecooperation Lab (TK) under the supervision of Prof. Max Mühlhäuser at Darmstadt Technical University, Department of Computer Science, researches concepts and methods for human-centered smart spaces of all sizes where telecooperation means targeted cooperation among humans and machines, based on information & communication technology. At the HCI group of the Telecooperation Lab, we investigate and study novel interaction concepts and techniques in the research fields that cover Fabrication, Augmented and Virtual Reality, Interactive Surfaces, On-body Haptics, Usable Security and Assisting Technology for children and people with special needs.
+
+
+## Technische Universität Dresden
+### Interactive Media Lab
+Prof. Dr. Raimund Dachselt – http://imld.de
+
+The Interactive Media Lab at the Technische Universität Dresden is conducting research primarily in the field of modern Human-Computer Interaction and interactive Information Visualization. Our main focus are natural user interfaces, in particular the development of interaction techniques and data visualization approaches using various interaction modalities (multitouch, pen, gaze, tangibles, gestures) and their combination. Typical research setups are multi-display and Mixed Reality environments as well as wearables for augmenting humans. We apply our basic research results to several application domains, like biology, medicine and cyber-physical systems, and develop domain-specific solutions.
+
+
+## University of Duisburg-Essen
+### paluno, HCI Group
+Stefan Schneegass – www.hci.wiwi.uni-due.de
+
+The HCI Group at the University of Duisburg-Essen (Campus Essen) is a part of paluno, the The Ruhr Institute for Software Technology. Our research focuses on the domains of immersive VR/MR, automotive UIs, Human-Robot interaction and usable security & privacy. We are also delighted to host the 19th International Conference on Mobile and Ubiquitous Multimedia (MUM) this year and welcome the HCI community to Essen.
+
+## Universität Hamburg
+### Human-Computer Interaction
+Frank Steinicke – www.inf.uni-hamburg.de/en/inst/ab/hci.html
+
+The Human-Computer Interaction (HC) research group is part of the Department of Informatics at the Faulty of Mathematics, Informatics and Natural Sciences at the Universität Hamburg (UHH). Our group is particularly interested in developing innovative user interfaces for computer-mediated blended realities in which the two-dimensional digital world and intelligence meets human intelligence and the three-dimensional physical world we live in. In our group we combine methods from computer science (software development, in particular computer graphics and artificial intelligence), engineering (hardware prototyping, in particular with sensors and actuators for novel user interface technology) and basic principles and models of psychology (such as perception, cognition or action) as well as interaction design (e.g. usability and user experience engineering) to reform the future interaction between humans and technology. The results advance the state-of-the-art in basic research, applied research, and experimental development in the area of augmented/virtual reality, virtual agents and avatars, and 3D user interfaces as well as spatial user interaction. The results can be applied in a variety of application domains such as health, simulation, training, communication, entertainment, education or training.
+
+
+## Leibniz Universität Hannover
+### Human-Computer Interaction Group
+Michael Rohs – hci.uni-hannover.de
+
+The Human-Computer Interaction Group is part of the Faculty of Electrical Engineering and Computer Science at Leibniz University Hannover. Our research and teaching focuses on the design, implementation, and evaluation of mobile, wearable, and ubiquitous interactive systems. Current topics include the application of machine learning techniques in sensor-based mobile interactions and mobile haptic feedback, e.g. for pedestrian navigation and visually impaired people.
+
+
+## Technische Hochschule Ingolstadt (THI)
+### Human-Computer Interaction Group
+Andreas Riener – hcig.thi.de
+
+The Human-Computer Interaction Group (HCIG) at THI, headed by Prof. Andreas Riener, is an interdisciplinary team with particular focus on usability research for intelligent user interfaces and user experience design. The research group is interested in augmented, mixed, and virtual reality applications to study novel and efficient interaction metaphors, motion/simulator sickness, trust/acceptance of technology, and usability/UX of (adaptive) interfaces. The group’s particular interest lies in the automotive domain, with prototypes/systems evaluated in driving simulator studies, lab experiments and in the field. The research agenda of the HCIG can be expressed as the “development of future interaction concepts and intelligent user interfaces that include cognitive elements to reflect the uniqueness of its users”.
+
+## Karlsruhe Institute of Technology (KIT)
+### Study Centre for the Visually Impaired (SZS)
+Computer Vision for Human-Computer Interaction Lab
+Rainer Stiefelhagen – www.szs.kit.edu
+
+The Study Centre for the Visually Impaired (SZS) is part of the Faculty of Computer Science at the Karlsruhe Institute of Technology (KIT). The SZS supports and advises visually impaired students and prospective students in all study courses offered at KIT. The work of the SZS aims at continuously developing innovative and individual solutions for accessible studies, especially in STEM (science, technologies, engineering and informatics) fields. Thereby, students with blindness or low vision get the opportunity to study in a self-determined and inclusive way at KIT and to find access to professional life. Moreover, the SZS does research on Assistive Technologies and on new ways of getting access to STEM fields together with the Computer Vision for Human-Computer Interaction Lab (cv:hci) which are both directed by Prof. Rainer Stiefelhagen.
+
+## University of Konstanz
+### HCI Group
+Harald Reiterer – hci.uni-konstanz.de/
+
+Harald Reiterer’s HCI Group is part of the Department of Computer and Information Science at the University of Konstanz, which is one of the eleven Universities of Excellence in Germany. Our group designs individual and collaborative user interfaces using virtual and augmented realities to ubiquitous computing systems while following our vision of “Blended Interaction.” Based on embodiment theory, Blended Interaction describes the successful blend of physically embodied interaction and computational power. Our research and teaching unify the areas of human-computer interaction, information visualization, and usability engineering. We integrate user-centred design and traditional engineering methods into our research philosophy. Typically, we define our research around realistic application scenarios in close cooperation with domain experts from areas such as visual computing, psychology, or healthcare. Together with our partners, we seek to identify the real needs of practitioners and then design and implement innovative user interfaces that live up to real-world requirements.
+
+## Hochschule Anhalt (Köthen)
+### Professor for HCI
+Arne Berger – www.hs-anhalt.de/hochschule-anhalt/service/personenverzeichnis/ prof-dr-arne-berger.html
+
+I am a full professor for Human-Computer-Interaction at Hochschule Anhalt. I work at the intersection of creating future technology and our responsibility for the unintended side-effects of yesterday’s technology.
+
+## LMU Munich
+### Media Informatics Group
+Andreas Butz – www.mimuc.de
+
+Heinrich Hußmann – www.mimuc.de
+
+Albrecht Schmidt – ubicomp.net
+
+At LMU Munich, three groups are working closely together in HCI research under the general title “Media Informatics”. All three groups conduct research on the crossroads of human behavior and machine computation. This comprises a broad range of topics, including novel interfaces and interaction technologies, development methodologies, and application case studies – always with a human-centered focus.
+The core Media Informatics group (Heinrich Hußmann) focuses on methods for smooth transitions along the mixed reality continuum, on the application of physical sensing methods to improve interaction and learning, and on interdisciplinary research in the interaction between humans and intelligent assistants. An important application area is the automotive domain.
+Research in the LMU HCI group (Andreas Butz) centers around the idea of mixing the digital and the physical world. This includes Ubiquitous Computing environments in the classical sense, be they living rooms, handball courts, or the public space, but also our interaction with autonomous cars and robots, and generally the interplay between human and artificial intelligence.
+The Human-Centered Ubiquitous Media group (Albrecht Schmidt) explores digital technologies that allow augmenting and amplifying human cognition and perception. The focus is on experimental research aiming at designing and implementing human-centered intelligent interactive systems. Technically this includes work on physiological user interfaces, augmented and virtual reality, and novel input and output channels.
+
+## Bundeswehr University Munich
+### Usable Security and Privacy Group, Research Institute CODE
+Florian Alt – www.unibw.de/usable-security-and-privacy
+
+The Usable Security and Privacy Group is part of the Research Institute CODE at the Bundeswehr University Munich. The group is headed by Prof. Florian Alt.
+
+We explore the design of secure systems that blend with the way in which users interact with computing devices. In particular, our research focuses on understanding users’ behavior in security critical contexts, in building security mechanisms based on users’ behavior (behavioral biometrics), in leveraging users’ physiology to both enhance existing security mechanisms as well as build novel security mechanisms (physiological security) and in understanding and investigating threats that emerge from novel ubiquitous technologies (ubiquitous security). Specific application areas are smart homes, social engineering and virtual reality.
+
+In the context of our research we employ and enhance methods commonly known from Human-Computer Interaction. These include but are not limited to user-centered design and iterative prototyping. Our work is strongly centered around humans, making empirical approaches a fundamental part of our research. To understand behavior as well as to evaluate novel approaches, we conduct studies in the lab and in the field.
+
+The group has won best paper and honorable mention awards at CHI, MobileHCI, IDC, and AmI. The research has been funded by the DFG, the ZD.B / Bavarian State Ministry for Education and Science, BMW, the Humboldt Foundation, the DAAD, Google, and the Telekom Innovation Labs.
+
+## University of Oldenburg
+### Medieninformatik
+Susanne Boll – uol.de/en/media-informatics
+
+The Media Informatics and Multimedia Systems Group is working in the fields of Human Computer Interaction. We develop interactive systems and computing technologies to enhance users’ lives. We focus primarily on mobile and ambient user interfaces, where we explore different novel modalities such as visual, auditory and tactile channels in pervasive displays. We strongly embed our research in the fields of personal health and safe transportation, that serve as major application domains. The group is headed by Prof. Dr. Susanne Boll. She is leading several national and international scientific projects with strong cooperation with research experts world wide. She head one of the few leading groups in Europe that works on mobile and ambient user interfaces exploring different novel modalities such as visual, auditory and tactile in pervasive displays. The research groups makes competitive contributions to the field of human computer interaction and ubiquitous computing. The research projects also have a strong connection to industry partners and application partners and addresses highly relevant challenges in the applications field of automation in transportation systems as well as health care technologies.
+
+## OFFIS – Institute for Information Technology (Oldenburg)
+### Interactive Systems Group
+Susanne Boll – www.offis.de
+
+OFFIS Interactive Systems Group develops interactive systems and computing technologies to enhance users’ lives. We focus primarily on mobile and ambient user interfaces, where we explore different novel modalities such as visual, auditory and tactile channels in pervasive displays. We strongly embed our research in the fields of personal health and safe transportation, that serve as major application domains.
+
+## University of Regensburg
+### Medieninformatik – Interaction Lab
+Niels Henze – interactionlab.io | mi.uni-regensburg.de
+
+The Chair of Media Informatics is the part of the Institute for Information and Media, Language and Culture at the University of Regensburg. We are interested in how users use computers today and how they will use them in the future. We develop interaction techniques, interactive systems, and applications that change the way users perceive and capture information. We investigate human perception and cognitive processes to understand how future technologies should be designed. Our research areas include mobile interactive systems, virtual, augmented and mixed reality, interactive systems for cultural heritage, and machine learning.
+
+## Saarland University
+### Ubiquitous Media Technology Lab, German Research Center for Artificial Intelligence (DFKI)
+Antonio Krüger – umtl.cs.uni-saarland.de
+
+Agents and Simulated Reality, German Research Center for Artificial Intelligence (DFKI)
+Philipp Slusallek – graphics.cg.uni-saarland.de
+
+The Ubiquitous Media Technologies Lab (UMTL) is part of the Saarland Informatics Campus and the Cognitive Assistants department (COS) at the German Research Center for Artificial Intelligence (DFKI). Our research activities focus on human factors in interactive systems, in particular, in the fields of multi-modal interaction, ubiquitous computing and gaming. Our research areas include augmented & virtual reality, assistive technologies in health & sports, gamification & games user research, human-robot interaction & collaboration, interactive & applied machine learning, mobile & wearable computing and usable privacy & security. We publish our research findings at renowned scientific conferences and apply our results in the retail domain in our living lab called the Innovative Retail Laboratory. Through our activities in the study program Media Informatics at Saarland University, we contribute to the education of the next generation of HCI practitioners and researchers. We offer lectures, courses, media projects, Bachelor’s & Master’s theses and an engaging work environment in which interactive systems are designed, prototyped, fabricated & evaluated.
+
+### HCI Lab
+Jürgen Steimle – hci.cs.uni-saarland.de
+
+Our research mission is to contribute toward a future of embodied user interfaces that merge seamlessly with the physical world and with the human body, creating more effective, expressive and engaging interactions with interactive systems. In our work, we conceive new principles for interaction and novel interaction techniques; we develop user interface technologies for advanced sensing and display; we contribute design and fabrication tools for rapid prototyping of embodied user interfaces; and we model and empirically investigate user behavior with these interfaces. Embodied interaction has manifold applications in diverse areas, including consumer electronics, mobile computing, wearable computing, robotics, smart home, health and fitness devices.
+
+## University of Siegen
+### Information Systems and New Media
+Volker Wulf – www.wineme.uni-siegen.de
+
+Information and communications technology (ICT) pervades most aspects of our lives and changes everyday’s practices in work and leisure time. To design innovative ICTs we need to engage with practices, institutional arrangements, and technological infrastructures. All of these issues are interrelated and historical grown, they need appropriate design methods. The challenge in the field of human-centred computing is to design innovative applications so that their appropriation leads to a better quality of life, sustainable development, and social integration. We are investigating into innovative ICTs, especially in the practice fields of cooperative work, community support, entertainment, ageing societies, and sustainability. In doing so, we contribute to the research fields of Human Computer Interaction, Computer Supported Cooperative Work, Ubiquitous Computing, and Software Engineering. The investigations into innovative ICTs in specific domains are related to each other via cross-cutting issues. These issues are currently ubiquitous and software technologies, methods of participatory design, end-user development, integration of organization and technology development, and the foundations of design science.
+
+Computer Supported Cooperative Work and Social Media
+Volkmar Pipek – www.cscw.uni-siegen.de
+
+We are an interdisciplinary research group of the University of Siegen dealing with IT-supported cooperation between humans. Particularly we deal with questions of the arrangement and acquirement of cooperative software systems in organizations, questions about communication based knowledge management and also with the support of communities. The last topic involves questions of social structuring by and with information technology (for instance in the fields of E-democracy or in civil security). Computer-Supported Cooperative Work / CSCW is an interdisciplinary field of research which includes not only methodology and contents of Computer Science and Information Systems, but also disciplines of business administration, organizations theory, ergonomics, sociology, psychology and anthropology/ethnography. Seen from the view of Computer Science CSCW is a subarea of Information Systems and HCI (Human-Computer Interaction).
+
+Experience & Interaction Design
+Marc Hassenzahl – www.experienceandinteraction.com
+
+We explore design between the material and experiential, touching upon industrial, interaction and critical design.
+
+Cyber-Physical Systems
+Thomas Ludwig – cps.wineme.fb5.uni-siegen.de/en/
+
+Our research group is engaged in research and teaching about the conception and design of cyber-physical systems, its technical development as well as its appropriation by users in different fields of application. Cyber-physical systems (CPS) describe the coupling of physical or biological components that can be integrated, observed and controlled via a computing unit. Essential components of cyber-physical systems are information and software technology components with mechanical or electronic components that communicate with each other via a communication infrastructure (e.g. the internet). Today, cyber-physical systems can be found wherever complex physical systems can be improved by communicating with the virtual, digital world. Examples are smart production facilities (industry 4.0) or e-health.
+
+IT for the Ageing Society
+Claudia Müller – www.wineme.uni-siegen.de/en/team/mueller/
+
+It is common knowledge that demographic change gives rise to numerous challenges and problems. The teaching and research at the heart of the assistant Professorship are concerned with finding solutions to these issues; solutions which are supported by information technology. The aim is to maintain and improve the social inclusion of the elderly, particularly their mobility and independence, as well as to enable them to lead a comfortable, healthy life at home, even at an advanced age.
+
+IT-Security and Consumer Computing
+Gunnar Stevens – www.itsec.wiwi.uni-siegen.de
+
+The Chair of Information Systems, in particular IT-Security and Consumer Computing researches the digital transformation of society from the consumer’s point of view with the aim of increasing digital sovereignty. The chair is located in the new research field of consumer informatics. Consumer informatics is the systematic, methodically guided investigation and design of information and communication technologies to support the household economies and everyday practices of consumers as well as their appropriation and social embedding. Consumer informatics thereby undergoes a change of perspective in which not only the role as a user of a system or customer of a company, but also the individual and collective life worlds of consumers are focused as comprehensively as possible.
+
+Lab Logo
+University of Stuttgart
+Institute for Visualisation and Interactive Systems – Perceptual User Interfaces Group
+Andreas Bulling – perceptualui.org
+
+The Human-Computer Interaction and Cognitive Systems group focuses on developing next-generation human-machine interfaces that offer human-like perceptual, cognitive, and interactive capabilities. To this end we research fundamental computational methods as well as ambient and on-body systems to sense, model, and analyse everyday non-verbal human behaviour.
+
+Institute for Parallel and Distributed Systems – Analytic Computing Group
+Steffen Staab – www.ipvs.uni-stuttgart.de/departments/ac/
+
+The group on Analytic Computing works on issues related to Artificial Intelligence (AI, Web, and Society; AI and HCI; KR and data bases) and Machine Learning (Machine Learning and Natural Language; Machine Learning and Sensing). The research group has been newly founded by Prof. Staab in 2020 as part of the Cyber Valley initiative of the local state of Baden-Württemberg. With this initiative the local region is supported by the state to become a major hub for AI. The group on Analytic Computing will comprise 12 researchers by the middle of 2020. It has already a range of projects running in the above-mentioned 5 project areas.
+
+Institute for Visualisation and Interactive Systems – Visualization Research Center
+Daniel Weiskopf | Michael Sedlmair – www.visus.uni-stuttgart.de/en/
+
+At the Visualization Research Center 30 scientists research in different areas of scientific visualisation, visual analytics, visual computing and computer graphics, as well as interdisciplinary, applied research. The latter results in a very close co-operation with non-visualization disciplines of the University of Stuttgart.
+
+Lab Logo
+Ulm University
+Institute of Media Informatics – Human-Computer-Interaction Group
+Enrico Rukzio – www.uni-ulm.de/in/mi/
+
+The Human-Computer-Interaction Group is located at the Institute of Media Informatics at Ulm University, and is headed by Enrico Rukzio. We are interested in designing intelligent interactive systems that enable people to be more efficient, satisfied and expressive in their daily lives. We design, implement (hard- and software) and evaluate novel interaction techniques, applications and services which either solve existing problems or provide new opportunities. Our research approach is based on design thinking, user centred design and iterative prototyping. At this, we involve potential users in all steps of the process, use a large body of low- and high-fidelity prototyping techniques and conduct a large number of user studies, evaluations and field tests. Our research focuses on the design of novel interaction concepts, devices and applications in areas such as mobile and wearable interaction, projected user interfaces, computerized eyewear, cross-device interactions, interaction in smart environments, human-technology interaction for elderly people, automotive user interfaces and interactive production planning.
+
+
+
