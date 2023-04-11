@@ -19,21 +19,14 @@ author:
 # --- List of links in the navigation bar --- #
 ###############################################
 
+
+
 navbar-links:
   About Me: "aboutme"
-  GERMAN HCI@CHI: "https://germanhci.github.io/website/editions/"
-    - 2023 - Hamburg: ""
-    - 2022 - New Orleans: ""
-    - 2021 - Virtual CHI: ""
-    - 2020 - Honolulu: ""
-    - 2019 - Glasgow: ""
-    - 2018 - Montreal: ""
-    - 2017 - Denver: ""
-    - Early days: ""
-  COMMUNITY EVENTS: "https://germanhci.github.io/website/community-events/"
-  GERMAN HCI-LABS: "https://germanhci.github.io/website/labs/"
-  FRIENDS: "https://germanhci.github.io/website/friends"
-  ABOUT: "https://germanhci.github.io/website/about"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
   
 
 ################
