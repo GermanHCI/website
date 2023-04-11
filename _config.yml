@@ -22,7 +22,7 @@ author:
 
 
 navbar-links:
-  HOME: "aboutme"
+  HOME: "https://germanhci.github.io/website/"
   GERMAN HCI@CHI:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
