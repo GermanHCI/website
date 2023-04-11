@@ -22,11 +22,14 @@ author:
 
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  HOME: "aboutme"
+  GERMAN HCI@CHI:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  COMMUNITY EVENTS: "https://germanhci.github.io/website/community-events/"
+  GERMAN HCI-LABS: "https://germanhci.github.io/website/labs/"
+  FRIENDS: "https://germanhci.github.io/website/friends"
+  ABOUT: "https://germanhci.github.io/website/about"
   
 
 ################
