@@ -36,7 +36,7 @@ __“What if everyone is able to program?” – Exploring the Role of Software 
 Kevin Krings (Cyber-Physical Systems, University of Siegen, Siegen, Germany), Nino S. Bohn (Cyber-Physical-Systems, University of Siegen, Siegen, Germany), Nora Anna Luise Hille (Cyber-Physical Systems, University of Siegen, Siegen, Germany), Prof. Dr. Thomas Ludwig (Cyber-Physical Systems, University of Siegen, Siegen, Germany)
 <span style="color: red;">Abstract</span> | Tags: Full Paper | Links:  
 
-
+ 
 
 __(Re-)Distributional Food Justice: Negotiating conflicting views of fairness within a local grassroots community__
 Philip Engelbutzeder, Yannick Bollmann, Katie Berns, Marvin Landwehr, Dave Randell, Volker Wulf
