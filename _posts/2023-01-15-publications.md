@@ -37,15 +37,11 @@ Kevin Krings (Cyber-Physical Systems, University of Siegen, Siegen, Germany), Ni
 <span style="color: red;">Abstract</span> | Tags: Full Paper | Links:  
 
 __(Re-)Distributional Food Justice: Negotiating conflicting views of fairness within a local grassroots community__
-
 Philip Engelbutzeder, Yannick Bollmann, Katie Berns, Marvin Landwehr, Dave Randell, Volker Wulf
-
 <span style="color: red;">Abstract</span> | Tags: Full Paper | Links: 
 
 __"We Need a Big Revolution in Email Advertising": Users' Perception of Persuasion in Permission-based Advertising Emails__
-
 Anastasia Sergeeva (University of Luxembourg), Björn Rohles (University of Luxembourg), Verena Distler (University of Luxembourg / Bundeswehr University Munich), Vincent Koenig (University of Luxembourg)
-
 <span style="color: red;">Abstract</span> | Tags: Full Paper | Links: 
  
 __A Database for Kitchen Objects: Investigating Danger Perception in the Context of Human-Robot Interaction__
