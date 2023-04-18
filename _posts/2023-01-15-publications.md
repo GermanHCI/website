@@ -12,7 +12,7 @@ permalink: /publications/
 
 ## The Unwritten Manual of Becoming a Professor of HCI
 Florian Michahelles (University of Vienna), Susanne Boll (University of Oldenburg), Katie A. Siek (University of Indiana Bloomington) Flora D. Salim (UNSW) Aaron J Quigley (UNSW)
-#### Abstract | Tags: Course | Links: 
+#### <span style="color: red;">Abstract</span> | Tags: Course | Links: 
 
 ## “In Your Face!”: Visualizing Fitness Tracker Data in Augmented Reality
 Sebastian Rigling (University of Stuttgart), Xingyao Yu (University of Stuttgart), Michael Sedlmair (University of Stuttgart)
