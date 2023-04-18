@@ -109,7 +109,7 @@ Evropi Stefanidi (University of Bremen), Johannes Schöning (University of St. G
 
 __Choice Over Control: How Users Write with Large Language Models using Diegetic and Non-Diegetic Prompting__  
 Hai Dang (University of Bayreuth), Sven Goller (University of Bayreuth), Florian Lehmann (University of Bayreuth), Daniel Buschek (University of Bayreuth) (Ed.)  
-Abstract | Tags: Full Paper | Links: 
+<span style="color: red;">Abstract</span> | Tags: Full Paper | Links: 
 
 __Choice Over Control: How Users Write with Large Language Models using Diegetic and Non-Diegetic Prompting__  
 Co-Writing with Opinionated Language Models Affects Users' Views
@@ -165,41 +165,4 @@ Ruben Albers (University of Siegen), Shadan Sadeghian (University of Siegen), Ma
 __Empathic Accuracy and Mental Effort during Remote Assessments of Emotions__  
 Stephan Huber (Julius-Maximilians-Universität Würzburg, Chair for Psychological Ergonomics, Würzburg), Natalie Rathß (Julius-Maximilians-Universität Würzburg, Chair for Psychological Ergonomics, Würzburg)  
 <span style="color: red;">Abstract</span> | Tags: Full Paper | Links: 
-
-Empathic Accuracy and Mental Effort during Remote Assessments of Emotions
-Enhancing Notification Awareness for Online Presenters via a Wrist-Worn Device
-
-René Schäfer (RWTH Aachen University), Tobias Wagner (Ulm University), Ulyana Lavnikevich (RWTH Aachen University), Jan Borchers (RWTH Aachen University)
-
-Abstract | Tags: | Links: 
-
-Enhancing Notification Awareness for Online Presenters via a Wrist-Worn Device
-Exploring Gesture and Gaze Proxies to Communicate Instructor's Nonverbal Cues in Lecture Videos
-
-Tobias Wagner (Institute of Media Informatics, Ulm University), Teresa Hirzle (Department of Computer Science, University of Copenhagen), Anke Huckauf (Institute of Psychology, Education, Ulm University), Enrico Rukzio (Institute of Media Informatics, Ulm University)
-
-Abstract | Tags: Late Breaking Work | Links: 
-
-Exploring Gesture and Gaze Proxies to Communicate Instructor's Nonverbal Cues in Lecture Videos
-Exploring Mixed Reality in General Aviation to Support Pilot Workload
-
-Christopher Katins (HU Berlin), Sebastian S. Feger (LMU Munich), Thomas Kosch (HU Berlin)
-
-Abstract | Tags: Late Breaking Work | Links: 
-
-Exploring Mixed Reality in General Aviation to Support Pilot Workload
-Exploring Mobility Behavior Around Ambient Displays Using Clusters of Multi-dimensional Walking Trajectories
-
-Jan Schwarzer (Hamburg University of Applied Sciences), Julian Fietkau (University of the Bundeswehr Munich), Laurenz Fuchs (University of the Bundeswehr Munich), Susanne Draheim (Hamburg University of Applied Sciences), Kai von Luck (Hamburg University of Applied Sciences), Michael Koch (University of the Bundeswehr Munich)
-
-Abstract | Tags: Late Breaking Work | Links: 
-
-Exploring Physiological Correlates of Visual Complexity Adaptation: Insights from EDA, ECG, and EEG Data for Adaptation Evaluation in VR Adaptive Systems
-
-Francesco Chiossi (LMU Munich), Changkun Ou (LMU Munich), Sven Mayer (LMU Munich)
-
-Abstract | Tags: Late Breaking Work | Links: 
-
-Exploring Physiological Correlates of Visual Complexity Adaptation: Insights from EDA, ECG, and EEG Data for Adaptation Evaluation in VR Adaptive Systems
-
 
