@@ -29,15 +29,11 @@ Sebastian Rigling (University of Stuttgart), Xingyao Yu (University of Stuttgart
 <span style="color: red;">Abstract</span> | Tags: Late Breaking Work | Links: 
 
 __“Nah, it’s just annoying!” A Deep Dive into User Perceptions of Two-Factor Authentication__
-
 Karola Marky (Ruhr-University Bochum, University of Glasgow), Kirill Ragozin (Keio University), George Chernyshov (Keio University), Andrii Matviienko (Technical University of Darmstadt), Martin Schmitz (Saarland University), Max Mühlhäuser (Technical University of Darmstadt), Chloe Eghtebas (TUM), Kai Kunze (Keio University)
-
 <span style="color: red;">Abstract</span> | Tags: Journal | Links: 
 
 __“What if everyone is able to program?” – Exploring the Role of Software Development in Science Fiction__
-
 Kevin Krings (Cyber-Physical Systems, University of Siegen, Siegen, Germany), Nino S. Bohn (Cyber-Physical-Systems, University of Siegen, Siegen, Germany), Nora Anna Luise Hille (Cyber-Physical Systems, University of Siegen, Siegen, Germany), Prof. Dr. Thomas Ludwig (Cyber-Physical Systems, University of Siegen, Siegen, Germany)
-
 <span style="color: red;">Abstract</span> | Tags: Full Paper | Links:  
 
 __(Re-)Distributional Food Justice: Negotiating conflicting views of fairness within a local grassroots community__
