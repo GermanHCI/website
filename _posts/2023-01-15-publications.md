@@ -34,4 +34,4 @@ Karola Marky (Ruhr-University Bochum, University of Glasgow), Kirill Ragozin (Ke
 
 __“What if everyone is able to program?” – Exploring the Role of Software Development in Science Fiction__
 Kevin Krings (Cyber-Physical Systems, University of Siegen, Siegen, Germany), Nino S. Bohn (Cyber-Physical-Systems, University of Siegen, Siegen, Germany), Nora Anna Luise Hille (Cyber-Physical Systems, University of Siegen, Siegen, Germany), Prof. Dr. Thomas Ludwig (Cyber-Physical Systems, University of Siegen, Siegen, Germany)
-<span style="color: red;">Abstract</span> | Tags: Full Paper | Links: 
+<span style="color: red;">Abstract</span> | Tags: Full Paper | Links:  
