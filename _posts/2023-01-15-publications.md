@@ -6,6 +6,7 @@ permalink: /publications/
 <style>
     body {
         font-size: 12px;
+        line-height: 1;
     }
 </style>
 
