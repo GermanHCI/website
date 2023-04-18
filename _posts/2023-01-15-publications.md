@@ -20,17 +20,9 @@ permalink: /publications/
 <br>
 <h2 style="font-weight: 400; text-align: center">Publications @ CHI 2023</h2>
 
-__The Unwritten Manual of Becoming a Professor of HCI__
+__The Unwritten Manual of Becoming a Professor of HCI__  Florian Michahelles (University of Vienna), Susanne Boll (University of Oldenburg), Katie A. Siek (University of Indiana Bloomington) Flora D. Salim (UNSW) Aaron J Quigley (UNSW)  <span style="color: red;">Abstract</span> | Tags: Course | Links: 
 
-Florian Michahelles (University of Vienna), Susanne Boll (University of Oldenburg), Katie A. Siek (University of Indiana Bloomington) Flora D. Salim (UNSW) Aaron J Quigley (UNSW)
-
-<span style="color: red;">Abstract</span> | Tags: Course | Links: 
-
-__“In Your Face!”: Visualizing Fitness Tracker Data in Augmented Reality__
-
-Sebastian Rigling (University of Stuttgart), Xingyao Yu (University of Stuttgart), Michael Sedlmair (University of Stuttgart)
-
-<span style="color: red;">Abstract</span> | Tags: Late Breaking Work | Links: 
+__“In Your Face!”: Visualizing Fitness Tracker Data in Augmented Reality__  Sebastian Rigling (University of Stuttgart), Xingyao Yu (University of Stuttgart), Michael Sedlmair (University of Stuttgart)  <span style="color: red;">Abstract</span> | Tags: Late Breaking Work | Links: 
 
 __“Nah, it’s just annoying!” A Deep Dive into User Perceptions of Two-Factor Authentication__
 
