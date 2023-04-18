@@ -20,14 +20,11 @@ author:
 ###############################################
 
 navbar-links:
-  HOME: "https://germanhci.github.io/website/"
-  GERMAN HCI@CHI: "https://germanhci.github.io/website/edition"
-    - 2023 - Hamburg:
-    - 2022 - New Orleans:
-  COMMUNITY EVENTS:
-  GERMAN HCI-LABS: "https://germanhci.github.io/website/labs/"
-  FRIENDS: "https://germanhci.github.io/website/friends"
-  ABOUT: "https://germanhci.github.io/website/about"
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
   
 ################
 # --- Logo --- #
