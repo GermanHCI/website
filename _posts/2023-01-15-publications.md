@@ -3,6 +3,15 @@ layout: base
 permalink: /publications/
 
 ---
+<style>
+    body {
+        font-size: 8px;
+    }
+</style>
+
+
+
+
 <br>
 <br>
 <br>
