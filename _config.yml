@@ -19,19 +19,16 @@ author:
 # --- List of links in the navigation bar --- #
 ###############################################
 
-
-
 navbar-links:
   HOME: "https://germanhci.github.io/website/"
   GERMAN HCI@CHI: "https://germanhci.github.io/website/edition"
-    - 2023 - Hamburg: ""
-    - 2022 - New Orleans: ""
+    - 2023 - Hamburg:
+    - 2022 - New Orleans:
   COMMUNITY EVENTS:
   GERMAN HCI-LABS: "https://germanhci.github.io/website/labs/"
   FRIENDS: "https://germanhci.github.io/website/friends"
   ABOUT: "https://germanhci.github.io/website/about"
   
-
 ################
 # --- Logo --- #
 ################
