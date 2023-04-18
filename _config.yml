@@ -26,7 +26,7 @@ navbar-links:
   GERMAN HCI@CHI: "https://germanhci.github.io/website/edition"
     - 2023 - Hamburg: ""
     - 2022 - New Orleans: ""
-  COMMUNITY EVENTS: "https://germanhci.github.io/website/community-events/"
+  COMMUNITY EVENTS:
   GERMAN HCI-LABS: "https://germanhci.github.io/website/labs/"
   FRIENDS: "https://germanhci.github.io/website/friends"
   ABOUT: "https://germanhci.github.io/website/about"
