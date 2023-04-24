@@ -22,21 +22,12 @@
           <a class="dropdown-item" href="/productos/pagina3.html">2021 - Virtual CHI</a>
           <a class="dropdown-item" href="/productos/pagina1.html">2023 - Hamburg</a>
           <a class="dropdown-item" href="/productos/pagina1.html">2020 - Honolulu</a>
-          <a href="#" class="dropdown-item dropdown-toggle dropdown submenu-button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">pikachu</a>
-<div class="dropdown-menu dropdown-menu-second" aria-labelledby="navbarDropdownMenuLink" id="pika">
-    <a class="dropdown-item" href="#">Spikam 1</a>
-    <a class="dropdown-item" href="#">Submepika 2</a>
-    <a class="dropdown-item" href="#">Submenu piik</a>
-</div>
-          <a class="dropdown-item" href="/productos/pagina3.html">2018 - Montreal</a>
-          <a href="#" class="dropdown-item dropdown-toggle submenu-button" data-toggle="dropdown" data-target="montreal11">2018 - Montreal1</a>
-            <div class="dropdown-menu dropdown-menu-second" id="montreal11">
+          <a href="#" class="dropdown-item dropdown-toggle" data-toggle="dropdown" id="montreal1">2018 - Montreal1</a>
+            <div class="dropdown-menu dropdown-menu-second">
                         <a class="dropdown-item" href="#">Submenu Montreal - Item 1</a>
                         <a class="dropdown-item" href="#">Submenu Montreal - Item 2</a>
                         <a class="dropdown-item" href="#">Submenu Montreal - Item 3</a>
             </div>
-
-
 
           <a class="dropdown-item" href="/productos/pagina2.html">2017 - Denver</a>  
         </div>     
@@ -112,24 +103,14 @@
 
 </nav>
 
-      <script>
-var buttons = document.querySelectorAll(".submenu-button");
-
-for (var i = 0; i < buttons.length; i++) {
-  buttons[i].addEventListener("click", function(e) {
-    e.preventDefault();
-    var target = this.getAttribute("data-target");
-    var submenu = document.querySelector(target);
-    submenu.style.display = "block";
-  });
-}
+<script>
+document.getElementById("montreal1").addEventListener("click", function() {
+  document.querySelector(".dropdown-menu-second").style.display = "block";
+});
 
 document.addEventListener("click", function(e) {
-  if (!e.target.closest(".dropdown-menu-second") && !e.target.closest(".submenu-button")) {
-    var submenus = document.querySelectorAll(".dropdown-menu-second");
-    for (var i = 0; i < submenus.length; i++) {
-      submenus[i].style.display = "none";
-    }
+  if (!e.target.closest(".dropdown-menu-second") && !e.target.closest("#montreal1")) {
+    document.querySelector(".dropdown-menu-second").style.display = "none";
   }
 });
 </script>
