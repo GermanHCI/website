@@ -366,6 +366,20 @@ img {
   display: none;
 }
 
+.dropdown-menu-second {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-left: 0.5rem; /* ajusta este valor para el espaciado deseado entre los submenús */
+  display: none;
+}
+
+.dropdown-menu:hover > .dropdown-menu-second {
+  display: block;
+}
+
+
+
 @media (min-width: 1200px) {
   .navbar-custom.top-nav-regular .avatar-container {
     width: 6.25rem;
