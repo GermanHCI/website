@@ -60,27 +60,7 @@
         <a class="nav-link" href="https://germanhci.github.io/website/">ABOUT</a>
       </li>
 
-      <script>
-var buttons = document.querySelectorAll(".submenu-button");
 
-for (var i = 0; i < buttons.length; i++) {
-  buttons[i].addEventListener("click", function(e) {
-    e.preventDefault();
-    var target = this.getAttribute("data-target");
-    var submenu = document.querySelector(target);
-    submenu.style.display = "block";
-  });
-}
-
-document.addEventListener("click", function(e) {
-  if (!e.target.closest(".dropdown-menu-second") && !e.target.closest(".submenu-button")) {
-    var submenus = document.querySelectorAll(".dropdown-menu-second");
-    for (var i = 0; i < submenus.length; i++) {
-      submenus[i].style.display = "none";
-    }
-  }
-});
-</script>
 
       
       
@@ -131,5 +111,27 @@ document.addEventListener("click", function(e) {
   {% endif %}
 
 </nav>
+
+      <script>
+var buttons = document.querySelectorAll(".submenu-button");
+
+for (var i = 0; i < buttons.length; i++) {
+  buttons[i].addEventListener("click", function(e) {
+    e.preventDefault();
+    var target = this.getAttribute("data-target");
+    var submenu = document.querySelector(target);
+    submenu.style.display = "block";
+  });
+}
+
+document.addEventListener("click", function(e) {
+  if (!e.target.closest(".dropdown-menu-second") && !e.target.closest(".submenu-button")) {
+    var submenus = document.querySelectorAll(".dropdown-menu-second");
+    for (var i = 0; i < submenus.length; i++) {
+      submenus[i].style.display = "none";
+    }
+  }
+});
+</script>
 
 {% include search.html %}
