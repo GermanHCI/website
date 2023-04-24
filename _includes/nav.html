@@ -19,11 +19,15 @@
         <a class="nav-link dropdown-toggle" href="#" id="productosDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">GERMAN HCI@CHI</a>
         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="productosDropdown">
           <a href="#" class="dropdown-item dropdown-toggle" data-toggle="dropdown" id="2023">2023 - Hamburg</a>
-            <div class="dropdown-menu dropdown-menu-second">
+            <div class="dropdown-menu dropdown-menu-second montreal1-menu">
                         <a class="dropdown-item" href="#">German HCI</a>
                         <a class="dropdown-item" href="#">Publications</a>
                         <a class="dropdown-item" href="#">Submenu Montreal - Item 3</a>
             </div>
+          <script>
+setupDropdownMenu("2023", "montreal1-menu");
+
+</script>
           <a class="dropdown-item" href="/productos/pagina3.html">2021 - Virtual CHI</a>
           <a class="dropdown-item" href="/productos/pagina1.html">2023 - Hamburg</a>
           <a class="dropdown-item" href="/productos/pagina1.html">2020 - Honolulu</a>
@@ -109,27 +113,19 @@
 </nav>
 
 <script>
-document.getElementById("montreal1").addEventListener("click", function() {
-  document.querySelector(".dropdown-menu-second").style.display = "block";
-});
+function setupDropdownMenu(buttonId, menuClass) {
+  document.getElementById(buttonId).addEventListener("click", function() {
+    document.querySelector("." + menuClass).style.display = "block";
+  });
 
-document.addEventListener("click", function(e) {
-  if (!e.target.closest(".dropdown-menu-second") && !e.target.closest("#montreal1")) {
-    document.querySelector(".dropdown-menu-second").style.display = "none";
-  }
-});
+  document.addEventListener("click", function(e) {
+    if (!e.target.closest("." + menuClass) && !e.target.closest("#" + buttonId)) {
+      document.querySelector("." + menuClass).style.display = "none";
+    }
+  });
+}
+
 </script>
 
-<script>
-document.getElementById("2023").addEventListener("click", function() {
-  document.querySelector(".dropdown-menu-second").style.display = "block";
-});
-
-document.addEventListener("click", function(e) {
-  if (!e.target.closest(".dropdown-menu-second") && !e.target.closest("#2023")) {
-    document.querySelector(".dropdown-menu-second").style.display = "none";
-  }
-});
-</script>
 
 {% include search.html %}
