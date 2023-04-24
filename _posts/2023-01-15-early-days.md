@@ -34,7 +34,8 @@ When CHI visited Austin, Jan Borchers was joined by Floyd Mueller (Exertion Game
 The now fifth edition was co-hosted by Jan Borchers, Floyd Mueller, and Jürgen Steimle (Saarland University). 200 people were invited to join the event in the Restaurant LR Paris 17.
 
 ## 2014 – Toronto
-![cheese-wine-2013-1024x663](https://user-images.githubusercontent.com/111348509/234114361-9c8a8dbf-8645-4b6a-88b0-26c2110b92eb.jpg)
+
+<img src="https://user-images.githubusercontent.com/111348509/234114361-9c8a8dbf-8645-4b6a-88b0-26c2110b92eb.jpg" alt="German Chi Week 2" style="width:50%;">
 
 Invitation to the 2014 edition of “Käse & Wein”
 Similar to 2013, the event was again organized by Jan Borchers, Floyd Mueller, and Jürgen Steimle, this time joined by Lennart Nacke (University of Waterloo). That year’s location was the Fionn MacCool’s – Front Street (Pub) and about 300 people were invited.
