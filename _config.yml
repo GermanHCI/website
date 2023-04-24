@@ -20,14 +20,6 @@ author:
 ###############################################
 
 navbar-links:
-  HOME: ""
-  GERMAN HCI@CHI:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  COMMUNITY EVENTS: "https://deanattali.com"
-  GERMAN HCI LABS: "https://deanattali.com"
-  FRIENDS: "https://deanattali.com"
-  ABOUT: "https://deanattali.com"
   
 ################
 # --- Logo --- #
