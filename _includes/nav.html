@@ -24,16 +24,13 @@
                         <a class="dropdown-item" href="#">Publications</a>
                         <a class="dropdown-item" href="#">Submenu Montreal - Item 3</a>
             </div>
-          <script>
-setupDropdownMenu("2023", "montreal1-menu");
 
-</script>
           <a class="dropdown-item" href="/productos/pagina3.html">2021 - Virtual CHI</a>
           <a class="dropdown-item" href="/productos/pagina1.html">2023 - Hamburg</a>
           <a class="dropdown-item" href="/productos/pagina1.html">2020 - Honolulu</a>
-          <a href="#" class="dropdown-item dropdown-toggle" data-toggle="dropdown" id="montreal1">2018 - Montreal1</a>
-            <div class="dropdown-menu dropdown-menu-second">
-                        <a class="dropdown-item" href="#">Submenu Montreal - Item 1</a>
+          <a href="#" class="dropdown-item dropdown-toggle" data-toggle="dropdown" id="2022">2018 - Montreal1</a>
+            <div class="dropdown-menu dropdown-menu-second 2022m">
+                        <a class="dropdown-item" href="#">Submenu Montreal - Item 111</a>
                         <a class="dropdown-item" href="#">Submenu Montreal - Item 2</a>
                         <a class="dropdown-item" href="#">Submenu Montreal - Item 3</a>
             </div>
@@ -59,11 +56,6 @@ setupDropdownMenu("2023", "montreal1-menu");
       <li class="nav-item dropdown">
         <a class="nav-link" href="https://germanhci.github.io/website/">ABOUT</a>
       </li>
-
-
-
-      
-      
       
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
@@ -111,6 +103,13 @@ setupDropdownMenu("2023", "montreal1-menu");
   {% endif %}
 
 </nav>
+
+
+<script>
+setupDropdownMenu("2023", "montreal1-menu");
+setupDropdownMenu("2022", "2022m");
+
+</script>
 
 <script>
 function setupDropdownMenu(buttonId, menuClass) {
