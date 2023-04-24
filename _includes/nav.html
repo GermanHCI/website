@@ -18,7 +18,12 @@
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="productosDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">GERMAN HCI@CHI</a>
         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="productosDropdown">
-          <a class="dropdown-item" href="/productos/pagina1.html">2023 - Hamburg</a>
+          <a href="#" class="dropdown-item dropdown-toggle" data-toggle="dropdown" id="2023">2023 - Hamburg</a>
+            <div class="dropdown-menu dropdown-menu-second">
+                        <a class="dropdown-item" href="#">German HCI</a>
+                        <a class="dropdown-item" href="#">Publications</a>
+                        <a class="dropdown-item" href="#">Submenu Montreal - Item 3</a>
+            </div>
           <a class="dropdown-item" href="/productos/pagina3.html">2021 - Virtual CHI</a>
           <a class="dropdown-item" href="/productos/pagina1.html">2023 - Hamburg</a>
           <a class="dropdown-item" href="/productos/pagina1.html">2020 - Honolulu</a>
@@ -110,6 +115,18 @@ document.getElementById("montreal1").addEventListener("click", function() {
 
 document.addEventListener("click", function(e) {
   if (!e.target.closest(".dropdown-menu-second") && !e.target.closest("#montreal1")) {
+    document.querySelector(".dropdown-menu-second").style.display = "none";
+  }
+});
+</script>
+
+<script>
+document.getElementById("2023").addEventListener("click", function() {
+  document.querySelector(".dropdown-menu-second").style.display = "block";
+});
+
+document.addEventListener("click", function(e) {
+  if (!e.target.closest(".dropdown-menu-second") && !e.target.closest("#2023")) {
     document.querySelector(".dropdown-menu-second").style.display = "none";
   }
 });
