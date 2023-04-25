@@ -12,7 +12,8 @@ permalink: /virtual-german-hci/
 
 
 Virtual German HCI Space
-## What to Expect
+## What to Expect   
+![website-teaser-300x149 (1)](https://user-images.githubusercontent.com/111348509/234244355-d7f7f02e-0fc7-47f0-8553-a04fb491bcc0.jpg)
 
 During CHI 2021, we will host a __virtual German HCI Space__ on Gather. Within this space, we will exhibit the publications of the contributing labs and provide space to __meet and chat.__
 
