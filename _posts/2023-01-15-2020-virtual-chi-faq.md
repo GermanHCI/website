@@ -30,8 +30,9 @@ Important: Rename yourself with your correct name. This helps us to assign the p
 - Panelists: In addition to the usage rights of the attendees, panelists are able to enable their video and unmute the microphone on their own. We kindly ask you to enable your video if possible.
 - __Q&A:__ Please ask questions using the Zoom Q&A (session chairs will introduce it during the panel discussion). Please skim the existing questions and vote questions up that are similar. Questions that have a high number of upvotes will receive special attention by the session chairs (see image below).
 - __Chat:__ The chat can be used for general comments or cheering – for questions, please use the Q&A functionality.
-If you have any questions or are experiencing issues, send a private message to one of the Zoom admins.  
-![german-chi-zoom](https://user-images.githubusercontent.com/111348509/234250237-98e3a1ee-9fcd-4856-8b30-aaa19069d185.png)
+If you have any questions or are experiencing issues, send a private message to one of the Zoom admins.   
+<img src="https://user-images.githubusercontent.com/111348509/234250237-98e3a1ee-9fcd-4856-8b30-aaa19069d185.png" width="30%" alt="german-chi-zoom">
+
 
 You can access the Q&A and chat in Zoom’s tool bar at the bottom.  
 __What is the difference between watching the live stream and joining on Zoom?__ In Zoom, you’re able to actively participate in the discussions by posting questions through the Q&A functionality. The live stream on YouTube is only for passively following the event.
