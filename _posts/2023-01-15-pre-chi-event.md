@@ -19,7 +19,7 @@ __The next Pre-CHI Event is scheduled to take place in Dresden 2023.__
 | Year | Location | Organizers | Dates |
 |-----------|-----------|-----------|-----------|
 | 2024| Saarbrücken| Jürgen Steimle, Antonio Krüger, Anna Feit, Paul Strohmeier (Saarland University)| TBD|
-| 2023 Dresden| Raimund Dachselt (Technische Universität Dresden)| March 30-31, 2023|
+| 2023| Dresden| Raimund Dachselt (Technische Universität Dresden)| March 30-31, 2023|
 | 2022| Ulm| Enrico Rukzio (Ulm University)|April 6-7, 2022|
 | 2020| Ulm / Günzburg| Terese Hirzle, Enrico Rukzio (Ulm University)|Mar 19-20, 2020 (Moved to 2022)|
 | 2019| OFFIS Oldenburg|Andrii Matviienko, Wilko Heuten, Susanne Boll (OFFIS)|April 11-12, 2019|
