@@ -10,6 +10,7 @@
     {% assign formatted_author_list = citation.Authors %}
     {% assign formatted_title = citation.Title %}
     {% assign formatted_publication_year = citation["Publication year"] %}
+    {% assign abstract = citation.Abstract %}
     
     {% if include_link == true %}
       {% assign url = citation.URLs | prepend: "https://scholar.google.com/scholar?q=" %}
@@ -29,6 +30,8 @@
       <li>
         <strong>{{ formatted_title }}</strong><br>
         {{ formatted_author_list }}<br>
+        <button onclick="toggleAbstract(this)" style="color:red;">Abstract</button>
+        <div class="abstract" style="display: none;">{{ abstract }}</div>
         {{ formatted_doi }}<br>
       </li>
     {% endif %}
@@ -41,3 +44,14 @@
     {% endif %}
   {% endfor %}
 </ol>
+
+<script>
+function toggleAbstract(button) {
+  var abstract = button.nextElementSibling;
+  if (abstract.style.display === "none") {
+    abstract.style.display = "block";
+  } else {
+    abstract.style.display = "none";
+  }
+}
+</script>
