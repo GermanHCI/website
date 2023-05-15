@@ -7,27 +7,27 @@
 
 <ol>
   {% for citation in pub_list %}
-    {% assign formatted_title = citation.Title | capitalize %}
     {% assign formatted_author_list = citation.Authors %}
-    {% assign formatted_url = citation.URLs %}
-    {% assign formatted_doi = citation.DOI %}
+    {% assign formatted_title = citation.Title %}
+    {% assign formatted_publication_year = citation["Publication year"] %}
     
     {% if include_link == true %}
-      {% assign url = formatted_url | prepend: "https://scholar.google.com/scholar?q=" %}
+      {% assign url = citation.URLs | prepend: "https://scholar.google.com/scholar?q=" %}
       {% capture title_link %}<a href="{{ url }}">{{ formatted_title }}</a>{% endcapture %}
     {% else %}
       {% assign title_link = formatted_title %}
     {% endif %}
 
-    {% assign formatted_authors = formatted_author_list | join: ", " | downcase %}
-    {% assign formatted_authors_red = "<span style='color:red;'>" | append: formatted_authors | append: "</span>" %}
-    {% assign formatted_url_doi = "<span style='color:red;'>" | append: formatted_url | append: " " | append: formatted_doi | append: "</span>" %}
-    
+    {% assign formatted_citation = formatted_author_list | append: " (" | append: formatted_publication_year | append: "). " | append: title_link | append: ". <em>" | append: citation.Publication | append: "</em>." %}
+
+    {% if citation.DOI %}
+      {% assign doi = citation.DOI %}
+      {% assign formatted_citation = formatted_citation | append: " DOI: " | append: doi %}
+    {% endif %}
+
     {% if style == "apa" %}
       <li>
-        <strong>{{ formatted_title }}</strong><br>
-        {{ formatted_authors_red }}<br>
-        {{ formatted_url_doi }}
+        {{ formatted_citation }}
       </li>
     {% endif %}
 
