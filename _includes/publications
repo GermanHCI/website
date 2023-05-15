@@ -28,7 +28,9 @@
         {{ formatted_author_list }}<br>
         <button onclick="toggleAbstract(this)" style="color:red; background-color:white; border:none;">Abstract</button>
         <div class="abstract" style="display: none;">{{ abstract }}</div>
-        <a href="{{ urls }}" target="_blank" style="color:red;">Link</a><br>
+        {% if forloop.first %}
+          <a href="{{ urls }}" target="_blank" style="color:red;">Link</a><br>
+        {% endif %}
       </li>
     {% endif %}
 
