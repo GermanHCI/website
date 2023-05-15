@@ -22,12 +22,14 @@
 
     {% if citation.DOI %}
       {% assign doi = citation.DOI %}
-      {% assign formatted_citation = formatted_citation | append: " DOI: " | append: doi %}
+      {% assign formatted_doi = "<span style='color:red;'>" | append: doi | append: "</span>" %}
     {% endif %}
 
     {% if style == "apa" %}
       <li>
-        {{ formatted_citation }}
+        <strong>{{ formatted_title }}</strong><br>
+        {{ formatted_author_list }}<br>
+        {{ formatted_doi }}<br>
       </li>
     {% endif %}
 
