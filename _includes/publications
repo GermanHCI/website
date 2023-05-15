@@ -23,14 +23,14 @@
 
     {% if citation.DOI %}
       {% assign doi = citation.DOI %}
-      {% assign formatted_doi = "<span style='color:red;'>" | append: doi | append: "</span>" %}
+      {% assign formatted_doi = "<a href='" | append: url | append: "'>link</a>" %}
     {% endif %}
 
     {% if style == "apa" %}
       <li>
         <strong>{{ formatted_title }}</strong><br>
         {{ formatted_author_list }}<br>
-        <button onclick="toggleAbstract(this)" style="color:red;">Abstract</button>
+        <button onclick="toggleAbstract(this)" style="color:red; background-color:white; border:none;">Abstract</button>
         <div class="abstract" style="display: none;">{{ abstract }}</div>
         {{ formatted_doi }}<br>
       </li>
