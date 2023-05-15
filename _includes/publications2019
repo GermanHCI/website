@@ -1,4 +1,4 @@
-{% assign pub_list = site.data.citations %}
+{% assign pub_list = site.data.citations2019 %}
 
 {% assign include_link = include.link %}
 {% assign style = include.style | downcase | default: "apa" %}
