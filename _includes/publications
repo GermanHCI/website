@@ -24,18 +24,13 @@
 
     {% if style == "apa" %}
       <li>
-        <div style="display: flex;">
-          <div style="width: 3px; background-color: #36a866;"></div>
-          <div style="margin-left: 10px;">
-            <strong>{{ formatted_title }}</strong><br>
-            {{ formatted_author_list }}<br>
-            <button onclick="toggleAbstract(this)" style="color: red; background-color: white; border: none;">Abstract</button>
-            <div class="abstract" style="display: none;">{{ abstract }}</div>
-            {% if forloop.first %}
-              <a href="{{ urls }}" target="_blank" style="color: red;">Link</a><br>
-            {% endif %}
-          </div>
-        </div>
+        <strong>{{ formatted_title }}</strong><br>
+        {{ formatted_author_list }}<br>
+        <button onclick="toggleAbstract(this)" style="color: red; background-color: white; border: none;">Abstract</button>
+        <div class="abstract" style="display: none;">{{ abstract }}</div>
+        {% if forloop.first %}
+          <a href="{{ urls }}" target="_blank" style="color: red;">Link</a><br>
+        {% endif %}
       </li>
     {% endif %}
 
