@@ -1,0 +1,44 @@
+{% assign pub_list = site.data.citations2021 %}
+
+{% assign include_link = include.link %}
+{% assign style = include.style | downcase | default: "apa" %}
+
+<ol style="list-style-type: none;">
+  {% for citation in pub_list %}
+    {% assign formatted_author_list = citation.Authors %}
+    {% assign formatted_title = citation.Title %}
+    {% assign formatted_publication_year = citation["Publication year"] %}
+    {% assign abstract = citation.Abstract %}
+    {% assign urls = citation.URLs %}
+    
+    {% if include_link == true %}
+      {% assign url = citation.URLs | prepend: "https://scholar.google.com/scholar?q=" %}
+      {% capture title_link %}<a href="{{ urls }}" target="_blank">{{ formatted_title }}</a>{% endcapture %}
+    {% else %}
+      {% assign title_link = formatted_title %}
+    {% endif %}
+
+    {% assign formatted_citation = formatted_author_list | append: " (" | append: formatted_publication_year | append: "). " | append: title_link | append: ". <em>" | append: citation.Publication | append: "</em>." %}
+
+    {% if style == "apa" %}
+      <li>
+        <strong>{{ formatted_title }}</strong><br>
+        {{ formatted_author_list }}<br>
+        <button onclick="toggleAbstract(this)" style="color:red; background-color:white; border:none;">Abstract</button>
+        <div class="abstract" style="display: none;">{{ abstract }}</div>
+        <a href="{{ urls }}" target="_blank" style="color:red;">Link</a><br>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
+
+<script>
+function toggleAbstract(button) {
+  var abstract = button.nextElementSibling;
+  if (abstract.style.display === "none") {
+    abstract.style.display = "block";
+  } else {
+    abstract.style.display = "none";
+  }
+}
+</script>
