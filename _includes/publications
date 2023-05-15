@@ -14,6 +14,7 @@
     
     {% if include_link == true %}
       {% assign url = citation.URLs | prepend: "https://scholar.google.com/scholar?q=" %}
+      {% assign doi_url = citation.DOI %}
       {% capture title_link %}<a href="{{ url }}">{{ formatted_title }}</a>{% endcapture %}
     {% else %}
       {% assign title_link = formatted_title %}
@@ -23,7 +24,7 @@
 
     {% if citation.DOI %}
       {% assign doi = citation.DOI %}
-      {% assign formatted_doi = "<a href='" | append: url | append: "'>link</a>" %}
+      {% assign formatted_doi = "<a href='" | append: doi_url | append: "' target='_blank'>link</a>" %}
     {% endif %}
 
     {% if style == "apa" %}
