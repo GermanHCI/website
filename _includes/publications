@@ -3,8 +3,6 @@
 {% assign include_link = include.link %}
 {% assign style = include.style | downcase | default: "apa" %}
 
-{% assign counter = 0 %}
-
 <ol style="list-style-type: none;">
   {% for citation in pub_list %}
     {% assign formatted_author_list = citation.Authors %}
@@ -14,8 +12,8 @@
     {% assign urls = citation.URLs %}
     
     {% if include_link == true %}
+      {% assign url = citation.URLs | prepend: "https://scholar.google.com/scholar?q=" %}
       {% capture title_link %}<a href="{{ urls }}" target="_blank">{{ formatted_title }}</a>{% endcapture %}
-      {% assign link_html = "<a href='" | append: urls | append: "' target='_blank' style='color: red;'>Link</a>" %}
     {% else %}
       {% assign title_link = formatted_title %}
     {% endif %}
@@ -26,17 +24,10 @@
       <li>
         <strong>{{ formatted_title }}</strong><br>
         {{ formatted_author_list }}<br>
-        <button onclick="toggleAbstract(this)" style="color: red; background-color: white; border: none;">Abstract</button>
+        <button onclick="toggleAbstract(this)" style="color:red; background-color:white; border:none;">Abstract</button>
         <div class="abstract" style="display: none;">{{ abstract }}</div>
-        {{ link_html }}<br>
+        <a href="{{ urls }}" target="_blank" style="color:red;">Link</a><br>
       </li>
-    {% endif %}
-
-    {% if include.limit %}
-      {% assign counter = counter | plus: 1 %}
-      {% if counter == include.limit %}
-        {% break %}
-      {% endif %}
     {% endif %}
   {% endfor %}
 </ol>
