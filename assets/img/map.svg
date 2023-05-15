@@ -33,7 +33,7 @@
 <circle id="Oldenburg" cx="400" cy="500" r="20" fill="orange" />
 <text x="120" y="500" fill="black" style="font-family:arial; font-size:25px;">University of Oldenburg</text>
 
-<circle id="Offis" cx="380" cy="550" r="20" fill="orange" onclick="window.location.href='https://www.uni-oldenburg.de/en/'" />
+<circle id="Offis" cx="380" cy="550" r="20" fill="orange" onclick="window.location.href='https://www.google.com'" />
 <text x="280" y="550" fill="black" style="font-family:arial; font-size:25px;" >OFFIS</text>
 
 <circle id="hamburg" cx="700" cy="400" r="20" fill="orange" onclick="window.location.href='https://www.uni-oldenburg.de/en/'" />
