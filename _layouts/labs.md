@@ -1,0 +1,14 @@
+---
+layout: labs
+permalink: /labor/
+
+---
+
+# Todos los Laboratorios
+
+{% for lab in site.data.labs %}
+  ## {{ lab.name }}
+  ![Logo del Laboratorio]({{ lab.logo }})
+  {{ lab.map }}
+  [Ver más detalles]({{ lab.website }})
+{% endfor %}
