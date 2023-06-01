@@ -6,9 +6,12 @@ title: Todos los Laboratorios
 
 <h1>Todos los Laboratorios</h1>
 
-{% for lab in site.data.labs %}
-  <h2>{{ lab.name }}</h2>
-  <img src="{{ lab.logo }}" alt="Logo del Laboratorio">
-  <p>{{ lab.map }}</p>
-  <a href="{{ lab.website }}">Ver más detalles</a>
+{% for lab_hash in site.data.labs %}
+{% assign lab = lab_hash[1] %}
+
+<div>
+{{ lab.name }}: {{ lab.description }}
+<a href={{ lab.link }}>{{ lab.link }}</a>
+</div>
+
 {% endfor %}
