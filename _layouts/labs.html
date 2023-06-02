@@ -1,15 +1,11 @@
-<!-- labs.html -->
 ---
 layout: default
-title: labors
 ---
 
-<h1>Todos los Laboratorios</h1>
+<h1>{{ page.title }}</h1>
 
 {% for lab in site.data.labs %}
   <h2>{{ lab.name }}</h2>
-  <img src="{{ lab.logo }}" alt="Logo del Laboratorio">
-  <p>{{ lab.map }}</p>
-  <a href="{{ lab.website }}">Ver más detalles</a>
+  <p>{{ lab.description }}</p>
+  <!-- Agrega más detalles según sea necesario -->
 {% endfor %}
-
