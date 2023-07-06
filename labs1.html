@@ -3,14 +3,14 @@ layout: base
 title: Labs1
 --- 
 
-<h1>Labs</h1>
+<h1>Contributing German HCI Labs</h1>
 
 {% for file in site.data.labs %}
   {% assign lab = file[1] %}
   <div>
     <h2>{{ lab.name }}</h2>
-    <img src="{{ lab.logo }}" alt="{{ lab.name }} logo">
-    <img src="{{ lab.map }}" alt="{{ lab.name }} map">
+    <img src="{{ lab.logo }}" >
+    <h3>{{ lab.description }}</h3>
     <a href="/labs/{{ lab.link }}">More details</a>
   </div>
 {% endfor %}
