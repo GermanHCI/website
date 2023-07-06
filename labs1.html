@@ -10,7 +10,7 @@ title: Labs1
   <div>
     <h2>{{ lab.name }}</h2>
     <img src="{{ lab.logo }}" >
-    <h3>{{ lab.description | markdownify }}</h3>
+    <p>{{ lab.description | markdownify }}</p>
     <a href="/labs/{{ lab.link }}">More details</a>
   </div>
 {% endfor %}
