@@ -1,5 +1,5 @@
-# _data/labs/lab2.yml
-
-name: Laboratorio 2
-website: https://ejemplo.com
-description: Este es el laboratorio 2. Aquí encontrarás información detallada sobre él.
+name: Lab 2
+logo: logo2.png
+map: map2.png
+link: lab2.html
+description: Description for Lab 2
