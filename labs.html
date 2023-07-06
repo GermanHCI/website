@@ -1,0 +1,16 @@
+---
+layout: base
+title: Labss
+--- 
+
+<h1>Labs</h1>
+
+{% for file in site.data.labs %}
+  {% assign lab = file[1] %}
+  <div>
+    <h2>{{ lab.name }}</h2>
+    <img src="{{ lab.logo }}" alt="{{ lab.name }} logo">
+    <img src="{{ lab.map }}" alt="{{ lab.name }} map">
+    <a href="/labs/{{ lab.link }}">More details</a>
+  </div>
+{% endfor %}
