@@ -8,7 +8,9 @@ title: Labs1
 {% for file in site.data.labs %}
   {% assign lab = file[1] %}
   <div>
-    <h2>{{ lab.name }}</h2>
+    <h2>{{ lab.university }}</h2>
+    <h3>{{ lab.deparment }}</h3>
+    <h4>{{ lab.person }}</h4>
     <img src="{{ lab.logo }}" >
     <p>{{ lab.description | markdownify }}</p>
     <a href="/labs/{{ lab.link }}">More details</a>
