@@ -10,10 +10,10 @@ title: Labs1
   <div class="lab-container">
     <div class="lab-header">
       <h2>{{ lab.university }}</h2>
+      <h3>{{ lab.deparment }}</h3>
+      <h4>{{ lab.person }}</h4>
       <img class="lab-logo" src="{{ lab.logo }}" alt="{{ lab.university }} logo" width="200">
     </div>
-    <h3>{{ lab.deparment }}</h3>
-    <h4>{{ lab.person }}</h4>
     <p>{{ lab.description | markdownify }}</p>
     <a href="/labs/{{ lab.link }}">More details</a>
   </div>
