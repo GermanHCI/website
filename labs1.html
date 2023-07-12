@@ -3,6 +3,22 @@ layout: base
 title: Labs1
 --- 
 
+<style>
+  .lab {
+    display: flex;
+    align-items: start;
+    margin-bottom: 2em;
+  }
+  .lab-text {
+    flex-grow: 1;
+  }
+  .lab-logo {
+    flex-shrink: 0;
+    margin-left: 1em;
+    width: 30%;
+  }
+</style>
+
 <h1>Contributing German HCI Labs</h1>
 
 {% for file in site.data.labs %}
