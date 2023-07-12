@@ -9,9 +9,11 @@ title: Labs1
   {% assign lab = file[1] %}
   <div class="lab-container">
     <div class="lab-header">
-      <h2>{{ lab.university }}</h2>
-      <h3>{{ lab.deparment }}</h3>
-      <h4>{{ lab.person }}</h4>
+      <div class="lab-info">
+        <h2>{{ lab.university }}</h2>
+        <h3>{{ lab.deparment }}</h3>
+        <h4>{{ lab.person }}</h4>
+      </div>
       <img class="lab-logo" src="{{ lab.logo }}" alt="{{ lab.university }} logo" width="200">
     </div>
     <p>{{ lab.description | markdownify }}</p>
